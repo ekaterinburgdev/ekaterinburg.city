@@ -1,0 +1,13 @@
+.page {
+  padding-bottom: 72px;
+  max-width: 1800px;
+  margin: auto;
+}
+
+.page__hero {
+  padding: 72px 64px;
+}
+
+.page__projects {
+  padding: 28px 16px;
+}
