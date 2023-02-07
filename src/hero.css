@@ -6,6 +6,7 @@
   width: clamp(80px, 30vw, 256px);
   height: clamp(80px, 30vw, 256px);
   margin-right: 64px;
+  position: relative;
 }
 
 .hero__header {
