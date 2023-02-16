@@ -10,6 +10,7 @@ if (rootNode) {
     React.createElement(AnimatedLogo, {
       radius: "clamp(80px, 30vw, 256px)",
       withLogoHover: false,
+      shadowed: true,
     })
   );
 }
