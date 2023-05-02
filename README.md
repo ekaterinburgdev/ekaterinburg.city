@@ -2,7 +2,7 @@
 
 Portal of Ekaterinburg web services
 
-**[ekaterinburg.io](https://ekaterinburg.io)** 
+**[ekaterinburg.city](https://ekaterinburg.city)** 
 
 
 ## Development
