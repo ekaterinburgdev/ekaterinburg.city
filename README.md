@@ -1,9 +1,10 @@
-# Ekaterinburg Code Website
+# ekaterinburg.city
 
-Portal of Ekaterinburg web services
+List of ekaterinburg.city projects
 
 **[ekaterinburg.city](https://ekaterinburg.city)** 
 
+<img src="https://github.com/ekaterinburgdev/ekaterinburg.city/assets/22644149/6ab71c81-6138-45a8-a180-2887b16ab5f3" width="484" alt="">
 
 ## Development
 
