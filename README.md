@@ -1,10 +1,11 @@
 # ekaterinburg.city
 
-List of ekaterinburg.city projects
+ekaterinburg.city projects list
 
 **[ekaterinburg.city](https://ekaterinburg.city)** 
 
-<img src="https://github.com/ekaterinburgdev/ekaterinburg.city/assets/22644149/6ab71c81-6138-45a8-a180-2887b16ab5f3" width="484" alt="">
+<img width="598" alt="" src="https://github.com/ekaterinburgdev/ekaterinburg.city/assets/22644149/3c7dadc1-131f-46e3-bb07-9b1738ced4fc">
+
 
 ## Development
 
