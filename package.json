@@ -11,7 +11,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.2.10"
+    "vite": "^5.4.2"
   },
   "dependencies": {
     "ekb": "1.2.0-rc.2",
