@@ -11,11 +11,11 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.4.2"
+    "vite": "^7.3.1"
   },
   "dependencies": {
-    "ekb": "1.2.0-rc.2",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "ekb": "^1.2.0-rc.2",
+    "react": "^18",
+    "react-dom": "^18"
   }
 }
